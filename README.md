@@ -2,8 +2,6 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-Software Engineering Day1 Assignment
-
 #Part 1: Introduction to Software Engineering
 
 What is Software Engineering? Software Engineering is a systematic approach to the design, development, maintenance, testing, and evaluation of software systems. It combines principles from computer science, engineering, and project management to create high-quality software that meets user requirements while being delivered on time and within budget.
